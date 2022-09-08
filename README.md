@@ -7,6 +7,7 @@ Only installs Microsoft Store, No Xbox Stuff will be Installed during the Deploy
 
 
 -------------------------------------------------
-Installation
+Installation / How to Download?
 -------------------------------------------------
-Extract the zip then run the .cmd file (and be patient)
+To download the .zip, Go to the Releases tab and download Add-Microsoft-Store-2022.zip
+In order to Install, Extract the zip then run the .cmd file (and be patient)
