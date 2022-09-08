@@ -9,4 +9,4 @@ Only installs Microsoft Store, No Xbox Stuff will be Installed during the Deploy
 -------------------------------------------------
 Installation
 -------------------------------------------------
-Extract the zip and run the .cmd file (and be patient)
+Extract the zip then run the .cmd file (and be patient)
