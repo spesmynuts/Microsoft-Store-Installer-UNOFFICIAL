@@ -21,6 +21,7 @@ III. Will this get more updates?
 
 IV. NOTE
 - Considering people are trying to download the .zip through Code (The Green Button) then download as .zip, you won't be able to get the installer working since the .appx's is larger than Github's 25MB Limit. (The file is 70MB+)
+- I will seriously laugh at you if you still haven't saw the text in the image below grandpa/grandma.
 
 IMAGE REFERENCES:
 
