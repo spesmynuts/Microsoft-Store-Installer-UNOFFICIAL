@@ -13,6 +13,13 @@ I. How to download?
 IMAGE REFERENCES:
 ![image](https://user-images.githubusercontent.com/90464223/235829308-11cebfab-cb64-453d-9c9b-5da5d7bde672.png)
 
+VIDEO REFERENCE:
+
+
+https://github.com/NexusLiteOS/Add-Microsoft-Store-2022/assets/90464223/f880d051-feb9-4870-a7eb-e82f2d09f9e6
+
+
+
 II. How to install?
 - Extract the .zip & run the .bat, simple enough no?
 
